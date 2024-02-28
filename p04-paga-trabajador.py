@@ -13,3 +13,4 @@ print(f'El trabajador {nombre} trabajo un total de {horas} horas, con una paga d
 print(f'Paga bruta :{pagabruta:.2f}')
 print(f'Impuesto   :{impuesto:.2f}')
 print(f'Paga neta  :{paganeta:.2f}')
+print('end')

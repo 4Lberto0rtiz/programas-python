@@ -2,10 +2,12 @@
 Alberto Ortiz Aguilera ortizaguileraalberto@gmail.com
 
 ## Actividad 1
-- Programa 1
-- Programa 2
-## Actividad 2
-- Programa 3
-- Programa 4
-## Actividad 3
-- Programa 5
+- p01-Hola-mundo
+- p02-area-circulo
+- p03-area-triangulo
+- p04-paga-trabajador
+
+## Actividad 4
+- Programa 19 Verificar suma
+- Programa 20 Ley de Newton
+- Progeama 21 Aceptar estudiante

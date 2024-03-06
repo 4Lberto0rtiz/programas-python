@@ -1,0 +1,13 @@
+# Programa que muestra el día correspondiente a los números del 1 al 7 o en su defecto marca error
+import os;os.system('cls')
+print('Día de la semana...\n')
+n=int(input('Ingrese un número entero entre el 1 y el 7: '))
+if n==1:print('\nDominguito de cruda')
+elif n==2:print('\nLunes, ni las gallinas ponen')
+elif n==3:print('\nMartes...apenas')
+elif n==4:print('\nMiercoles, hombligo de semana')
+elif n==5:print('\nJueves o juebebes')
+elif n==6:print('\nViernes y el cuerpo lo sabe')
+elif n==7:print('\nSabado, noche de fiesta')
+else:print('\nNúmero fuera de rango')
+print('\nFin')

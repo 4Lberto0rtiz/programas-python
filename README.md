@@ -53,3 +53,5 @@ Alberto Ortiz Aguilera ortizaguileraalberto@gmail.com
 - p41-suma-200
 - p42-conversion-temperaturas
 - p43-numero-mayor
+## Primer Examen parcial
+- p44-primer-examen-parcial
